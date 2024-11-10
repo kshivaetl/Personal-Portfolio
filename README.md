@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there, I'm Siva Kandivalasa 👋
+
+🚀 About me
+I am highly proficient, versatile and resolution-focused Data Architect/Data Engineer/Cloud Architect offering expertise in data warehousing architecture, lake house, data engineering, data modeling, and project management seeking a challenging role to contribute my expertise and skills to develop scalable and reliable solutions.
+
+📌 Skills
 
 <!--
 **kshivaetl/kshivaetl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
