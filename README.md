@@ -28,7 +28,7 @@ I am highly proficient, versatile and resolution-focused Data Architect/Data Eng
 ✔️ Informatica Cloud 101 and 201  
 
 Certification Record: https://www.credly.com/users/siva-kumar-kandivalasa/badges  
-https://www.credential.net/profile/skandivalasa/wallet
+                      https://www.credential.net/profile/skandivalasa/wallet
 
 📌 Clients
 
