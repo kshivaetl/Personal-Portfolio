@@ -7,7 +7,7 @@ I am highly proficient, versatile and resolution-focused Data Architect/Data Eng
 📌 Technical Skills
 
 ✔️ Snowlfake       ->  Snowsight, SnowSQL, Snowpipe, Streamlit, Snowpark  
-✔️ AWS             ->  S3, EC2, Route 53, IAM, Cloud Front, VPC, Auto Scaling, Load Balancing, Lambda, EMR, SQS, SNS, Step Functions, Event Bridge, RDS  
+✔️ AWS             ->  S3, EC2, Route 53, IAM, Cloud Front, VPC, Auto Scaling, Load Balancing, Lambda, EMR, SQS, SNS, Step Functions, EventBridge, RDS  
 ✔️ Scripting       ->  SQL, Python, Unix  
 ✔️ Databases       ->  Snowflake, Teradata, Netezza, SAP HANA, Oracle, DB2, MS-SQL Server(TSQL), MongoDB  
 ✔️ ETL Tools       ->  Informatica PC, IDMC, Dbt, Matllion, SSIS  
