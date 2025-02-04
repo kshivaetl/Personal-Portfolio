@@ -50,19 +50,14 @@ Certification Record:   https://www.credly.com/users/siva-kumar-kandivalasa/badg
 
 📌 Projects:
 
-Client:        Novo Nordisk
-
-Role:          Senior Data Architect\ETL Data Engineer\Lead Feb’24 to tilldate
-
-**Project Name:**  EDW - HCP Marketing Systems(Campaigns)
-
-**Summary:**
+✔️ Client:        Novo Nordisk          
+✔️ Project Name:  EDW - HCP Marketing Systems(Campaigns)
+✔️ Summary:  
         • Accountable for developing and implementing new applications to analyze HCP marketing data for Adobe Experience
         Management (AEP), Adobe Campaign Management (ACM), NBA media, Marketing Mix, and various downstream systems.
         The Enterprise Data Warehouse (EDW) functions as a central repository, aggregating data from both third-party
         and direct vendors containing HCP campaign information. The EDW enhances this data to underpin omnichannel
-        dashboards and support any downstream systems that utilize the data.
-        
+        dashboards and support any downstream systems that utilize the data.       
         • Coordinate with stakeholders, line of business (LoB) teams, and both downstream and upstream owners to gather
         requirements.
         • Responsible for developing project plans, establishing clear timelines, estimating efforts, identifying system dependencies,
