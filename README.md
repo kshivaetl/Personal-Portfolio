@@ -43,7 +43,7 @@ Certification Record:   https://www.credly.com/users/siva-kumar-kandivalasa/badg
 
 📌 Employment
 
-  ✔️ Brillio                        -> Mar'2024 - Till data  
+  ✔️ Brillio                        -> Mar'2024 - Till date  
   ✔️ Confidential (Consulting)      -> Jan'2014 - Feb'2024  
   ✔️ Cognizant(CTS)                 -> Oct'2009 - Jan'2014  
   ✔️ Fujitsu                        -> Oct'2006 - Oct'2009  
